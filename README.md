@@ -76,3 +76,12 @@
 - 소켓을 활용한 Database server/client 프로그램
  
 ---
+
+### [7. Linux Kernel Programming](https://github.com/KimUJin3359/Linux_Kernel_Programming)
+- Kernel 버전확인/빌드
+- Device Driver
+- Device Node/File
+- System Call
+- Memory Map 분석
+- Bootloader
+- U-Boot
